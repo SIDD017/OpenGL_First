@@ -146,8 +146,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\src\glad.c" />
+    <ClCompile Include="D:\Desktop Stuff SORT LATER\src\glad.c" />
+    <ClCompile Include="stb_image_implementation.cpp" />
     <ClCompile Include="Test.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

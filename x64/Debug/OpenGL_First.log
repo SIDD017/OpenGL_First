@@ -1,12 +1,37 @@
 ﻿  Test.cpp
 C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Shader.h(46,35): warning C4101: 'e': unreferenced local variable
-C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(219,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(274,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(294,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(295,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(299,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(300,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(301,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(302,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(309,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(162,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(180,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(181,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(182,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(210,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(211,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(242,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(262,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(263,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(267,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(268,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(269,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(270,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Siddhartha\source\repos\OpenGL_First\OpenGL_First\Test.cpp(277,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   OpenGL_First.vcxproj -> C:\Users\Siddhartha\source\repos\OpenGL_First\x64\Debug\OpenGL_First.exe
